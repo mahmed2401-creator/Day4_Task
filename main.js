@@ -79,9 +79,9 @@ console.log(cities);
 console.log(cities.length);
 
 //10
-console.log(cities[0]); // First
-console.log(cities[1]); // Second
-console.log(cities[cities.length - 1]); // Last
+console.log(cities[0]); 
+console.log(cities[1]); 
+console.log(cities[cities.length - 1]); 
 
 //11
 cities.push("Fayoum");
